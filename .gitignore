@@ -1,0 +1,5 @@
+asl_ap=lphabet_train/
+asl_ap=lphabet_test/
+Sign Language MNIST Dataset/
+venv/
+__pycache__/
